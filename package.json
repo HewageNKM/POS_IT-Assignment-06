@@ -1,0 +1,29 @@
+{
+  "name": "pos_it-assignment-06",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HewageNKM/POS_IT-Assignment-06.git"
+  },
+  "keywords": [
+    "pos"
+  ],
+  "author": "Nadun Kawishika",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HewageNKM/POS_IT-Assignment-06/issues"
+  },
+  "homepage": "https://github.com/HewageNKM/POS_IT-Assignment-06#readme",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.1.0",
+    "mongoose": "^7.6.3"
+  }
+}
